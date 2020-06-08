@@ -6,6 +6,7 @@ function Dinner (props) {
     <div > 
       <h1> {props.dishname} is so delicious </h1>
       <h1>I love {props.sweetdish} </h1>
+      <h1>but my all time favorite is {props.fruit} </h1>
 
     </div>
   )
